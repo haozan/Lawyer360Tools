@@ -17,6 +17,20 @@
       style: basic
       url: https://chatgpt.com/
 
+    - name: Midjourney
+      icon: image
+      style: basic
+      url: https://www.midjourney.com/
+
+    - name: Gemini
+      icon: google
+      style: basic
+      url: https://gemini.google.com/
+
+    - name: Claude
+      style: basic
+      url: https://www.anthropic.com/
+
   - name: 法律大数据
     links:
     - name: 北大法宝
@@ -56,15 +70,8 @@
     #   style: basic
     #   url: https://www.tumblr.com/
 
-    # - name: Instagram
-    #   icon: instagram pink
-    #   style: basic
-    #   url: https://www.instagram.com/
 
-    # - name: GitHub
-    #   icon: github black
-    #   style: basic
-    #   url: https://github.com/
+
 
     - name: 天眼查
       style: basic
@@ -73,6 +80,31 @@
     - name: 企查查
       style: basic
       url: https://www.qcc.com/
+
+    - name: 中国庭审公开网
+      icon: video red
+      style: basic
+      url: https://tingshen.court.gov.cn/
+
+    - name: 中国裁判文书网
+      icon: file alternate red
+      style: basic
+      url: https://wenshu.court.gov.cn/
+
+    - name: 中国执行信息公开网
+      icon: bullhorn red
+      style: basic
+      url: http://zxgk.court.gov.cn/
+
+    - name: 国家法律法规数据库
+      icon: book red
+      style: basic
+      url: https://flk.npc.gov.cn/
+
+    - name: 中国商标网
+      icon: copyright red
+      style: basic
+      url: https://sbj.cnipa.gov.cn/
 
 
   - name: 办案/案件管理
@@ -111,7 +143,7 @@
   - name: 诉讼服务
     links:
     - name: 广东法院诉讼服务网
-      icon: gavel
+      icon: gavel red
       style: basic
       url: https://ssfw.gdcourts.gov.cn/
 
@@ -151,15 +183,15 @@
 #     #   style: basic
 #     #   url: http://buptclass.com/
 
-  # - name: 精品课程
-  #   links:
-  #   - name: 空余教室查询
-  #     style: basic
-  #     url: http://jwc.bupt.edu.cn/content/content.php?p=10_2_235
+  - name: 政府网站
+    links:
+    - name: 最高人民法院
+      style: basic
+      url: https://www.court.gov.cn/
 
-#     - name: 辅修专业
-#       style: basic
-#       url: http://jwc.bupt.edu.cn/list/list.php?p=7_50_1
+    - name: 最高人民检察院
+      style: basic
+      url: https://www.spp.gov.cn/
 
 #     - name: 毕业设计
 #       style: basic
