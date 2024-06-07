@@ -11,10 +11,12 @@
 .ui.masthead .ui.text.container {
     margin-top: 15rem;
     margin-bottom: 10rem;
+
 }
 
 .ui.masthead div.ui.pointing.label {
     margin-bottom: 2em;
+
 }
 
 .ui.masthead h1.ui.header {
@@ -43,6 +45,7 @@
 .ui.labels .ui.label {
     margin-left: 0.25em;
     margin-right: 0.25em;
+    font-size: 1rem;
 }
 
 .ui.masthead #banner-advertisement {
