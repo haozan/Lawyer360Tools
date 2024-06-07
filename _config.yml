@@ -1,22 +1,22 @@
-repository: BYR-Navi/BYR-Navi
-repository_url: https://github.com/BYR-Navi/BYR-Navi
+repository: Lawyer360Tools
+repository_url: https://github.com/haozan/Lawyer360Tools
 
 timezone: Asia/Shanghai
 lang: zh_CN
 
-title: 北邮人导航 · BYR-Navi
-alias_en: BYR-Navi
-alias_cn: 北邮人导航
-description: A Navigation Website for BYR
-keywords: 北邮人导航, BYR-Navi, BYR, BUPT, Navi, Navigation
-url: https://byr-navi.com
-established_at: "2016-10-01T00:00+08:00"
+title: 律师工具箱 · Lawyer360Tools
+alias_en: Lawyer360Tools
+alias_cn: 律师工具箱
+description: A Toolbox Website for Lawyers
+keywords: 律师工具箱, Lawyer, Tools
+url: https://Lawyer360Tools.com
+established_at: "2024-06-06T00:00+08:00"
 
-author: iROCKBUNNY
-author_url: https://irockbunny.com
-organization: TEELAB
-organization_url: https://teelab.net
-contact: contact[at]irockbunny[dot]com
+author: HaoZan
+author_url: https://www.qinglion.com
+organization: QingLion
+organization_url: https://www.qinglion.com
+contact: haozanlawyer[at]gmail[dot]com
 
 image: /images/logo.png
 logo: /images/logo.png
