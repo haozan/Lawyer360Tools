@@ -133,14 +133,14 @@
 
   - name: 办案/案件管理
     links:
-    - name: 法蝉
-      style: basic
-      url: https://www.fachans.com/
-
     - name: 青狮阅卷
       icon: file green
       style: basic
       url: https://www.qinglion.com/
+    
+    - name: 法蝉
+      style: basic
+      url: https://www.fachans.com/
 
     - name: iCourt
       style: basic
@@ -212,9 +212,10 @@
       style: basic
       url: https://www.capcut.cn/
 
-#     # - name: 北邮人BT
-#     #   style: blue
-#     #   url: https://byr.pt/promotionlink.php?key=63030ce02da245eb152d2e8dc8dd6add
+    - name: 可画
+      icon: paint brush
+      style: basic
+      url: https://www.canva.cn/
 
 #     # - name: 北邮IPTV
 #     #   style: basic
