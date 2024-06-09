@@ -1,7 +1,13 @@
 - categories:
   - name: AI 大模型
     links:
+    - name: 通义法睿
+      icon: balance scale red
+      style: basic
+      url: https://tongyi.aliyun.com/farui
+
     - name: kimi
+      icon: magic red
       style: basic
       url: https://kimi.moonshot.cn/
 
@@ -12,6 +18,23 @@
     - name: 豆包
       style: basic
       url: https://www.doubao.com/
+
+    - name: 文心一言
+      icon: paw
+      style: basic
+      url: https://yiyan.baidu.com/
+
+    - name: 智谱清言
+      style: basic
+      url: https://chatglm.cn/
+
+    - name: 通义千问
+      style: basic
+      url: https://tongyi.aliyun.com/qianwen/
+
+    - name: 讯飞星火
+      style: basic
+      url: https://passport.xfyun.cn/
 
     - name: ChatGPT
       style: basic
@@ -65,13 +88,14 @@
     #   style: basic
     #   url: https://plus.google.com/
 
-    # - name: Tumblr
-    #   icon: tumblr blue
-    #   style: basic
-    #   url: https://www.tumblr.com/
+    - name: 国家企业信用信息公示系统
+      icon: shield alternate red
+      style: basic
+      url: https://www.tumblr.com/
 
-
-
+    - name: 企信宝
+      style: basic
+      url: https://www.qixin.com/
 
     - name: 天眼查
       style: basic
@@ -114,11 +138,60 @@
       url: https://www.fachans.com/
 
     - name: 青狮阅卷
-      style: green
+      icon: file green
+      style: basic
       url: https://www.qinglion.com/
+
+    - name: iCourt
+      style: basic
+      url: https://www.icourt.cc/
+
+    - name: 印象笔记
+      style: basic
+      url: https://yinxiang.com/
+
+    - name: ilovepdf
+      icon: file pdf red
+      style: basic
+      url: https://www.ilovepdf.com/
+
+    - name: WPS
+      icon: file word red
+      style: basic
+      url: https://www.wps.cn/
+
+    - name: ProcessOn
+      icon: sitemap blue
+      style: basic
+      url: https://www.processon.com/
+
+    - name: 沉浸式翻译
+      icon: comment alternate pink
+      style: basic
+      url: https://immersivetranslate.com/
+
 
 
 - categories:
+  - name: 投融资/IPO
+    links:
+    - name: 全国中小企业股份转让系统
+      style: basic
+      url: https://www.neeq.com.cn/
+
+    - name: 巨潮资讯
+      style: basic
+      url: http://www.cninfo.com.cn/
+
+
+  - name: 诉讼服务
+    links:
+    - name: 广东法院诉讼服务网
+      icon: gavel red
+      style: basic
+      url: https://ssfw.gdcourts.gov.cn/
+
+
   - name: 新媒体工具
     links:
     - name: 公众号一键排版
@@ -135,17 +208,9 @@
       url: https://channels.weixin.qq.com/
 
     - name: 剪映
+      icon: cut
       style: basic
       url: https://www.capcut.cn/
-
-
-
-  - name: 诉讼服务
-    links:
-    - name: 广东法院诉讼服务网
-      icon: gavel red
-      style: basic
-      url: https://ssfw.gdcourts.gov.cn/
 
 #     # - name: 北邮人BT
 #     #   style: blue
@@ -183,27 +248,29 @@
 #     #   style: basic
 #     #   url: http://buptclass.com/
 
-  - name: 政府网站
+
+
+
+
+
+- categories:
+  - name: 业务创新
     links:
-    - name: 最高人民法院
+    - name: 理脉
       style: basic
-      url: https://www.court.gov.cn/
+      url: https://www.legalminer.com/
 
-    - name: 最高人民检察院
+    - name: 海蜂法务
       style: basic
-      url: https://www.spp.gov.cn/
+      url: https://www.haifeng.cn/
 
-#     - name: 毕业设计
-#       style: basic
-#       url: http://jwc.bupt.edu.cn/list/list.php?p=9_38_1
+    - name: 易法通
+      style: basic
+      url: https://www.yifatong.com/
 
-#     - name: 学生校际选修
-#       style: basic
-#       url: http://www.xueyuanlu.cn/
-
-#     - name: 创新学分
-#       style: basic
-#       url: http://jwc.bupt.edu.cn/list/list.php?p=9_39_1
+    - name: 案牍 AutoDocs
+      style: basic
+      url: https://www.autodocs.cn/
 
 #     - name: 课表查询
 #       style: basic
@@ -244,3 +311,19 @@
 #     - name: 校历
 #       style: basic
 #       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
+
+  - name: 政府网站
+    links:
+    - name: 最高人民法院
+      style: basic
+      url: https://www.court.gov.cn/
+
+    - name: 最高人民检察院
+      style: basic
+      url: https://www.spp.gov.cn/
+
+  - name: 成长/健康/二代/身份
+    links:
+    - name: 少文私塾
+      style: basic
+      url: 
