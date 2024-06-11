@@ -217,43 +217,6 @@
       style: basic
       url: https://www.canva.cn/
 
-#     # - name: 北邮IPTV
-#     #   style: basic
-#     #   url: http://tv.byr.cn/
-
-#     # - name: 信息门户
-#     #   style: basic
-#     #   url: http://my.bupt.edu.cn/
-
-#     # - name: 图书馆
-#     #   style: basic
-#     #   url: http://lib.bupt.edu.cn/
-
-#     # - name: 北邮贴吧
-#     #   style: basic
-#     #   url: http://tieba.baidu.com/f?kw=%B1%B1%BE%A9%D3%CA%B5%E7%B4%F3%D1%A7
-
-#     # - name: 校园网
-#     #   style: basic
-#     #   url: http://nic.bupt.edu.cn/
-
-#     # - name: 北邮邮箱
-#     #   style: basic
-#     #   url: http://mail.bupt.edu.cn/
-
-#     # - name: VPN服务
-#     #   style: basic
-#     #   url: https://nic.bupt.edu.cn/list/list.php?p=5_13_1
-
-#     # - name: 空闲自习室查询
-#     #   style: basic
-#     #   url: http://buptclass.com/
-
-
-
-
-
-
 - categories:
   - name: 业务创新
     links:
@@ -273,46 +236,6 @@
       style: basic
       url: https://www.autodocs.cn/
 
-#     - name: 课表查询
-#       style: basic
-#       url: http://jwc.bupt.edu.cn/list/list.php?p=4_34_1
-
-#     - name: 考表查询
-#       style: basic
-#       url: http://jwc.bupt.edu.cn/list/list.php?p=4_35_1
-
-#     - name: 出国成绩单办理
-#       style: basic
-#       url: http://jwc.bupt.edu.cn/content/content.php?p=5_27_65
-
-#     - name: 教学事务流程
-#       style: basic
-#       url: http://jwc.bupt.edu.cn/content/content.php?p=5_68_111
-
-#     - name: 创新实践平台
-#       style: basic
-#       url: http://cslab.bupt.edu.cn/innovation/
-
-#     - name: 申请护照通行证
-#       style: basic
-#       url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-#     - name: 补办学生证
-#       style: basic
-#       url: http://xsc.bupt.edu.cn/content/content.php?p=27_26_48
-
-#     - name: 校园一卡通
-#       style: basic
-#       url: http://ecard.bupt.edu.cn/
-
-#     - name: 办公电话
-#       style: basic
-#       url: http://www.bupt.edu.cn/content/content.php?p=6_9_79
-
-#     - name: 校历
-#       style: basic
-#       url: http://www.bupt.edu.cn/content/content.php?p=6_10_80
-
   - name: 政府网站
     links:
     - name: 最高人民法院
@@ -323,7 +246,7 @@
       style: basic
       url: https://www.spp.gov.cn/
 
-  - name: 成长/健康/二代/身份
+  - name: 成长/健康
     links:
     - name: 少文私塾
       icon: lightbulb red
@@ -334,3 +257,34 @@
       icon: heart red
       style: basic
       url: 
+
+
+
+- categories:
+  - name: 编程技能
+    links:
+    - name: Github
+      icon: github
+      style: basic
+      url: https://github.com/
+
+    - name: Base64
+      style: basic
+      url: https://www.base64-image.de/
+
+    - name: Semantic ui
+      icon: fly
+      style: basic
+      url: https://semantic-ui.com/
+
+
+  - name: 加密货币
+    links:
+    - name: Altrady
+      style: basic
+      url: https://www.altrady.com/
+
+    - name: Coinmarketcap
+      style: basic
+      url: https://coinmarketcap.com/
+    
