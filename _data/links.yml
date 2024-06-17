@@ -6,14 +6,25 @@
       style: basic
       url: https://tongyi.aliyun.com/farui
 
+
+    - name: MetaLaw
+      style: basic
+      url: https://meta.law/
+
     - name: kimi
       icon: magic red
       style: basic
       url: https://kimi.moonshot.cn/
 
+    - name: 秘塔搜索
+      style: basic
+      url: https://metaso.cn/
+
     - name: 元宝
       style: basic
       url: https://yuanbao.tencent.com/
+
+
 
     - name: 豆包
       style: basic
@@ -277,6 +288,10 @@
       style: basic
       url: https://semantic-ui.com/
 
+    - name: Cloudflare
+      icon: cloud
+      style: basic
+      url: https://www.cloudflare.com/
 
   - name: 加密货币
     links:
