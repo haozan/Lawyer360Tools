@@ -230,6 +230,11 @@
       style: basic
       url: https://channels.weixin.qq.com/
 
+
+    - name: 抖音（网页版）
+      style: basic
+      url: https://www.douyin.com/
+
     - name: 剪映
       icon: cut
       style: basic
@@ -314,4 +319,10 @@
     - name: Coinmarketcap
       style: basic
       url: https://coinmarketcap.com/
+
+    - name: OneKey
+      style: basic
+      url: https://card.onekey.so/
+
+      
     
