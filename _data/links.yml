@@ -47,6 +47,14 @@
       style: basic
       url: https://passport.xfyun.cn/
 
+    - name: Coze
+      style: basic
+      url: https://www.coze.com/
+
+    - name: 扣子
+      style: basic
+      url: https://www.coze.cn/
+
     - name: ChatGPT
       style: basic
       url: https://chatgpt.com/
