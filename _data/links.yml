@@ -47,6 +47,11 @@
       style: basic
       url: https://passport.xfyun.cn/
 
+    - name: 百度文库
+      style: basic
+      url: https://wenku.baidu.com/
+
+
     - name: Coze
       style: basic
       url: https://www.coze.com/
