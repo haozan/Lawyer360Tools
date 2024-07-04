@@ -24,8 +24,6 @@
       style: basic
       url: https://yuanbao.tencent.com/
 
-
-
     - name: 豆包
       style: basic
       url: https://www.doubao.com/
@@ -77,6 +75,10 @@
     - name: Claude
       style: basic
       url: https://www.anthropic.com/
+
+    - name: 汇总-AI工具集
+      style: basic
+      url: https://ai-bot.cn/
 
   - name: 法律大数据
     links:
